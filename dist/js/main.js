@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("my burger"),console.log("Hello, i am slider"),console.log("Hello, i am burger"),(()=>{const o="my slider";console.log(o),console.log(o)})()})();
